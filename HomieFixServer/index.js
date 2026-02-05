@@ -39,7 +39,7 @@ app.use('/auth', AuthRouter);
 
 // Basic route to test server
 app.get('/', (req, res) => {
-  res.send('Hello, World! Hello Swapnil');
+  res.send('Hello, World! Hello Stuti');
 });
 
 // Start the server

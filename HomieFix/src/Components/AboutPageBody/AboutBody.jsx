@@ -64,9 +64,9 @@ Building Strong Communities: Beyond individual homes, our mission is to contribu
           <div>
             <h3>Phone</h3>
             <p>Mon-Fri from 9am to 8pm.</p>
-            <a href="tel:+91 74895 89201">+91 74895 89201</a>
+            <a href="tel:+91 96542 27515">+91 96542 27515</a>
             <br />
-            <a href="tel:+91 93518 80281">+91 93518 80281</a>
+            <a href="tel:+91 98103 82271">+91 98103 82271</a>
           </div>
         </div>
         <hr className="line" />

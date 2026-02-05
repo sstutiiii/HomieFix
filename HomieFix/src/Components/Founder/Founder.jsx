@@ -7,12 +7,15 @@ export const Founder = () => {
   return (
     <div className='testimonial'>
         <h1 className='underline-animation'>The Visionaries Behind HomieFix</h1>
-        <p className='founderpara'>Meet the dynamic duo who founded HomieFix, a platform that connects homeowners with 
-        skilled artisans for home repair and maintenance services. Our founders are passionate individuals dedicated to 
-        revolutionizing the home repair industry. With a shared vision for making repair services accessible and reliable, 
-        they bring together a wealth of technical expertise and entrepreneurial spirit. Their commitment to excellence and 
-        innovation drives HomieFix forward, setting new standards and ensuring customer satisfaction. Meet the visionaries 
-        behind the success of HomieFix.</p>
+        <p className='founderpara'>Meet Stuti Sharma, the founder of HomieFix,
+           a platform that connects homeowners with skilled artisans for reliable
+            home repair and maintenance services. Stuti is a passionate individual
+             dedicated to transforming the home repair industry. With a clear
+              vision of making repair services accessible and dependable,
+               she brings together technical understanding and strong entrepreneurial
+                drive. Her commitment to excellence, consistency, and continuous 
+                learning drives HomieFix forward, setting new standards and ensuring
+                 customer satisfaction. Meet the visionary behind the success of HomieFix.</p>
         <div className="card">
           <ul>
             <li>
@@ -20,16 +23,21 @@ export const Founder = () => {
               <div className="user-info">
                 <img className="img1 underline" src={founder_1} alt="Swapnil" />
                 <div>
-                  <h3>SWAPNIL RAJ</h3>
-                  <span>Bihar, India</span>
+                  <h3>STUTI SHARMA</h3>
+                  <span>Delhi, India</span>
                 </div>
                 </div>
                 <p className='descrip'>
-                Swapnil Raj is the visionary founder of HomieFix, a platform offering topnotch home repair and 
-                maintenance services. A Final-year student at KIIT University from Bihar, Swapnil has expertly balanced 
-                his studies with entrepreneurial pursuits. His technical expertise and practical experience have been 
-                key in making HomieFix a trusted industry name. Driven by a passion for innovation and excellence, 
-                Swapnil continues to set new standards in the home repair sector.
+                Stuti Sharma is a driven student and the founder of HomieFix,
+                 a platform focused on delivering reliable home repair and
+                  maintenance solutions. A third-year Computer Science (Hons.)
+                   student at Delhi University, Stuti has successfully balanced
+                    her academic commitments with building her entrepreneurial venture.
+                     With HomieFix as her primary initiative, her journey reflects
+                      strong qualities of hard work, consistency, and leadership.
+                       Guided by a continuous desire to learn and grow,
+                        Stuti is steadily shaping her path in the tech and
+                         startup ecosystem with dedication and purpose.
                 </p>
               </div>
             </li>
